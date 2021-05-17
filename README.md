@@ -1,11 +1,12 @@
-# da-project-template
-Template for creating data analytics projects 
+# Simulation Example
+Example on how to use random number generation to simulate processes
 
 
 ## Requirements
 
 * conda
 * python==3.8.5
+
 ## Setup
 
 For this purpose you use following commands:
